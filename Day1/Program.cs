@@ -20,6 +20,7 @@ namespace Day1
             float flo = 10.123f;
             decimal dec = 10.123m;
 
+            Console.WriteLine(name);
             Console.WriteLine(dou);
             Console.WriteLine(flo);
             Console.WriteLine(dec);
